@@ -1,0 +1,4 @@
+baseURL = 'https://syres.org/'
+languageCode = 'en-us'
+title = 'Systems Theory for Institutional Research (STIR)'
+theme = 'hugo-book'
